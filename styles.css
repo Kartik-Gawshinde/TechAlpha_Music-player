@@ -29,6 +29,11 @@ body {
     border-radius: 4px;
     margin: 0 5px;
   }
+
+  .control-btn:hover{
+    background-color: #ec4e1f;
+    transition: all ease 0.3s;
+  }
   
   .control-slider {
     width: 150px;
